@@ -8,4 +8,4 @@ I'm Keith. I'm a bit of a dabbler in code, but enjoy learning and applying with 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I was president of my college Swing Dance Club.
 
-My website, keithsayer.com, has recently been updated.
+My website, https://keithsayer.com, has recently been updated.
